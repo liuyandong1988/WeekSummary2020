@@ -1,0 +1,7 @@
+asdf
+
+近期工作总结与计划：
+1.对上次组会王老师提出的多车道协同的论文做阅读分析，论文使用鱼群算法控制多车道车辆碰撞；
+2.复现杨强组《federated reinforcement learning》工作，论文以federated框架，解耦多智能体的联合空间降低计算复杂度；
+3.继续调试复现代码，也以解决MARL的联合空间为创新点，解决论文《multi-agent deep reinforcement learning》 多智能体的追击问题。
+
